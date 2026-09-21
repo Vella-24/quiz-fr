@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Daftar Kategori - Admin KMS</title>
+    <title>Daftar Kategori - Admin</title>
 </head>
 <body>
 

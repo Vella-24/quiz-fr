@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Daftar Informasi - KMS</title>
+    <title>Daftar Informasi</title>
 </head>
 <body>
 
@@ -21,7 +21,7 @@
         </form>
     </div>
 
-    <h1>Knowledge Management System - Daftar Informasi</h1>
+    <h1></h1>
 
     {{-- 1. Session Notification: Pesan Sukses (Slide 6 & 7) --}}
     @if(session('success'))
